@@ -2,8 +2,7 @@ package codePackage;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-//Group member: Zhaorui Zhang, Rajnessh
-//we add the additional error free check on the code
+
 public class ConvertTest {
     public static void main(String[] args) {
         Scanner scanner = new  Scanner(System.in);
